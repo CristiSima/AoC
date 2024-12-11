@@ -1,0 +1,7 @@
+input
+example
+example2
+
+*.o
+*.hi
+*.exe
